@@ -9,7 +9,7 @@ This utility module will load the appropriate library based on the actual platfo
 ## Maven
 ```xml
 <dependency>
-  <groupId>com.github.mhoffrog.jna</groupId>
+  <groupId>de.mhoffrogge.jna</groupId>
   <artifactId>jna-utils</artifactId>
   <version>0.1.0</version>
 </dependency>
